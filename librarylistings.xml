@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.2" class="java.beans.XMLDecoder">
+ <object class="librarylist">
+  <void property="books">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="book">
+      <void property="cost">
+       <string>$4</string>
+      </void>
+      <void property="description">
+       <string>For Kids </string>
+      </void>
+      <void property="name">
+       <string>Nimo</string>
+      </void>
+      <void property="number">
+       <int>1000</int>
+      </void>
+      <void property="yearofrelease">
+       <int>1901</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="book">
+      <void property="cost">
+       <string>$50</string>
+      </void>
+      <void property="description">
+       <string>For Adults </string>
+      </void>
+      <void property="name">
+       <string>Fifty Shades of Grey</string>
+      </void>
+      <void property="number">
+       <int>10120</int>
+      </void>
+      <void property="yearofrelease">
+       <int>2008</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="book">
+      <void property="cost">
+       <string>$12</string>
+      </void>
+      <void property="description">
+       <string>For Students </string>
+      </void>
+      <void property="name">
+       <string>River Between</string>
+      </void>
+      <void property="number">
+       <int>13</int>
+      </void>
+      <void property="yearofrelease">
+       <int>1998</int>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
